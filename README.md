@@ -1,2 +1,2 @@
 # Bzip2
- Bzip2Stream
+* Thư viện C# Bzip2Stream dùng nén và giải nén dữ liệu bz2
