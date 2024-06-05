@@ -3,3 +3,9 @@ E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Bzip2\Bzip2.net\bin\Debug\Bzip2.net.pdb
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Bzip2\Bzip2.net\obj\Debug\Bzip2.net.csprojAssemblyReference.cache
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Bzip2\Bzip2.net\obj\Debug\Bzip2.net.dll
 E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\SRC\Bzip2\Bzip2.net\obj\Debug\Bzip2.net.pdb
+D:\Source VBNet_C#\GitHub\Bzip2\src\bin\Debug\Bzip2.net.dll
+D:\Source VBNet_C#\GitHub\Bzip2\src\bin\Debug\Bzip2.net.pdb
+D:\Source VBNet_C#\GitHub\Bzip2\src\obj\Debug\Bzip2.net.csproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Bzip2\src\obj\Debug\Bzip2.net.csproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Bzip2\src\obj\Debug\Bzip2.net.dll
+D:\Source VBNet_C#\GitHub\Bzip2\src\obj\Debug\Bzip2.net.pdb
